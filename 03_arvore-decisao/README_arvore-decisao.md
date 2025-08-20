@@ -45,10 +45,6 @@ O ganho de informação mede **o quanto a incerteza diminui** após um corte.
 - **Classificação:** acurácia, precision/recall/F1, matriz de confusão, AUC-ROC.
 - **Regressão:** RMSE, MAE, R².
 
-## Exemplo prático (Colab)
-Use o notebook abaixo (inclui comentários linha a linha, visualização e tuning rápido de `max_depth`):
-- **Notebook:** `DecisionTree_Exemplo.ipynb` (suba para o Google Colab ou mantenha em `notebooks/` do seu repositório).
-
 ## Referências rápidas
 - `sklearn.tree.DecisionTreeClassifier`
 - `sklearn.tree.plot_tree`
